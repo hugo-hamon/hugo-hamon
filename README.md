@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100"/>
+</div>
+
+
+
 # 🔥 About me
 Hi ! I'm a data scientist student at UFR Sciences et Technique St Etienne du Rouvray in France. What i love the more to do is programming in different fields like machine learning, computer graphics, Supervised learning...
 
