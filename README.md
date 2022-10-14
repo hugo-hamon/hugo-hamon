@@ -5,4 +5,14 @@ Hi ! I'm a data scientist student at UFR Sciences et Technique St Etienne du Rou
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "www.linkedin.com/in/hamon-hugo"
+    link = "//linkedin.com/in/USERNAME"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
