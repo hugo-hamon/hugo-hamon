@@ -3,7 +3,7 @@
 </div>
 
 # 🔥 About me
-Hi ! I'm a data scientist student at UFR Sciences et Technique St Etienne du Rouvray in France. What i love the more to do is programming in different fields like machine learning, computer graphics, Supervised learning...
+Hi ! I'm a data scientist student at UFR Sciences et Technique St Etienne du Rouvray in France. What i love the more to do is programming in different fields like machine learning, computer graphics, Supervised learning... I'm looking for a 2 month internship for 2023 to complete my computer science degree.
 
 # 📪 Contact
 <div id="badges" align="center">
